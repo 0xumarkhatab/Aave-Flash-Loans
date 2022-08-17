@@ -1,0 +1,29 @@
+{
+  "name": "aave-flash-loan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umaresso/Aave-Flash-Loans.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umaresso/Aave-Flash-Loans/issues"
+  },
+  "homepage": "https://github.com/umaresso/Aave-Flash-Loans#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.2"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.13.1",
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.1"
+  }
+}
